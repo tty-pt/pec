@@ -1,0 +1,7 @@
+ON 0 27 * * 1300 Salary
+ON 0 1 * * -700 Rent
+ON 0 * */3 * -33 Gas
+ON 0 1 * * -16 Light
+ON 0 * * * -10 Food
+LEND 2024/08/08 300 Josh's car
+UNLEND 0 30 Josh's car
